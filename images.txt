@@ -1,2 +1,1 @@
-docker.io/kubeflowmanifestswg/oidc-authservice:e236439
-docker.io/seldonio/mlserver:1.3.2
+docker.io/metacontrollerio/metacontroller:v2.0.4
